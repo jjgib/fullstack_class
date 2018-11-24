@@ -1,0 +1,15 @@
+body{
+    background: yellow;
+}
+h1 {
+    margin-top: 20px;
+}
+.register {
+    background:blue;
+}
+.mytab{
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 1px;
+    background:#ccc;
+}
